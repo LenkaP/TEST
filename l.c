@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
     cout << "Zadajte cislo:" << endl;
-    int x;
+    int x,c;
     cin >> x;
     if (x > 5){
         cout << "Zadane cislo je vacsie ako 5!" << endl;
