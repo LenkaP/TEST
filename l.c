@@ -7,7 +7,7 @@ int main()
 {
     cout << "Zadajte cislo:" << endl;
     cout<< "Vylepsenie:"<<endl;
-	int x,c;
+	int n,x,c;
     cin >> x;
     if (x > 5){
         cout << "Zadane cislo je vacsie ako 5!" << endl;
